@@ -1,7 +1,6 @@
 # Persian AMR Annotation Guidelines
 Welcome to the Persian Abstract Meaning Representation (AMR) Annotation Guidelines repository. This repository contains the guidelines developed for the manual annotation of AMRs for Persian sentences. These guidelines are based on the syntactic specifications of Persian and are intended to assist researchers and annotators in creating high-quality AMR datasets for Persian.
 
-# Guidelines
 The Persian AMR annotation guidelines document is an 88-page comprehensive guide written in Persian. It provides detailed instructions on how to manually annotate AMRs for the Persian translation of "The Little Prince." These guidelines are based on the English AMR guidelines but have been adapted to address the unique syntactic features of Persian.
 
 At the moment, the guidelines are only available in Persian. We are in the process of translating the document into English, and the English version will be added to this repository soon.

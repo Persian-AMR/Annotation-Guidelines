@@ -25,7 +25,7 @@ For the Universal Meaning Representation (UMR) workshop proceedings paper:
     pages = "TBA",
 
 ```
-For the longer version archived on arxiv:
+For a more detailed version archived on arxiv:
 
 ```bibtex
 
